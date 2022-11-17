@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/crosszay1/deadbox2/main/epicfilescriptthing.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crosszay1/deadbox2/main/scriptmain.lua"))()
